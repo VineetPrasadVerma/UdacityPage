@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UdacityPage</string>
+    <string name="phone">660-555-555</string>
+    <string name="website">www.udacity.com</string>
+    <string name="address">2465 Latha St, Mountain View, CA 94043</string>
+    <string name="udacity">UDACITY</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="two_hundred_ten">210dp</dimen>
+    <dimen name="sixteen">16dp</dimen>
+    <dimen name="sixteen_text_size">16sp</dimen>
+    <dimen name="thirty_two">32sp</dimen>
+    <dimen name="udactiy_textview_height">137dp</dimen>
+    <dimen name="hundred">100dp</dimen>
+    <dimen name="fourty">40dp</dimen>
+</resources>
